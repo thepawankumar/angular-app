@@ -174,7 +174,7 @@
               "serverTarget": "angular-starter:server:development"
             }
           },
-          "defaultConfiguration": "productionenv"
+          "defaultConfiguration": "production"
         }
       }
     }
